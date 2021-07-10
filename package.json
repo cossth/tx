@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.0.0",
   "license": "AGPL-3.0-only",
-  "repository": "tomashubelbauer/todo",
+  "repository": "cossth/todo",
   "bin": "index.js",
   "type": "module",
   "scripts": {
